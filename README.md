@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!--<
 **atlsidik/atlsidik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src ="https://github.com/atlsidik/atlsidik/blob/main/cover.jpg" height="200" >
 ![My Skills](https://skillicons.dev/icons?i=java,cpp,js,)
 
