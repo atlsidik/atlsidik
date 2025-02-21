@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src ="https://github.com/atlsidik/atlsidik/blob/main/cover.jpg" height="200"/>
-![My Skills](https://skillicons.dev/icons?i=java,cpp,js,)
+
 
